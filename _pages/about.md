@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! I'm currently pursuing an MSc in Data Science at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/education/master/programs/data-science/),
-where I also do research at the [Laboratory for Information and Inference Systems](https://www.epfl.ch/labs/lions/).
-My current research revolves around **graph neural networks**, **reinforcement learning**, and **self-supervised learning** 
-for combinatorial optimization problems. Prior to my master's degree, I completed a BSc in Data Science and Artificial 
-Intelligence 🎓 at [Maastricht University](https://www.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence).
+Welcome to my kingdom! I'm currently in my final year of my MSci in Physics at [Imperial College London](https://www.imperial.ac.uk/research-and-innovation/), with research interests in computational neuroscience, device physics, robotics and neuroengineering.
+
+From 2022 to 2023, I spend a year abroad at Switzerland's [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/education/master/programs/data-science/), working at the [Neuroengineering Laboratory](https://www.epfl.ch/labs/ramdya-lab/) on two projects. The first involved developing **computer vision tools** via **transfer learning** to track key-points of the *Drosophila melanogaster* and perform **inverse kinematics** to replay its behaviour in a simulated, **digital twin**. In the second, I used real, **neural connections** data as the basis for a **temporal graph neural network** that was trained to generate oscillatory signals, to model a modulated, central pattern generator for **locomotion**.
+
+I am also involved with ETH Zurich's [Institute for Neuroinformatics](https://www.ini.uzh.ch/en/myINI.html), where I worked on **neuromorphic-based prosthetics** that emulate biology and use **spiking neural networks**. For more details of my work, please explore my [projects](/projects/) page.
 
 I am also currently involved with [Rounded.News](https://rounded.news) as the Chief AI Strategist, a start-up attempting
 to break filter bubbles using AI-powered news 📰.

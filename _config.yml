@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lars C.P.M. Quaedvlieg # the website title (if blank, full name will be used instead)
-first_name: Lars
-middle_name: C.P.M.
-last_name: Quaedvlieg
-email: lars.quaedvlieg@epfl.ch
+title: Arianna Alonso Bizzi # the website title (if blank, full name will be used instead)
+first_name: Arianna
+middle_name: 
+last_name: Alonso Bizzi
+email: arianna.alonso-bizzi20@imperial.ac.uk # your email address
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The portfolio website of Lars C.P.M. Quaedvlieg
+  The portfolio website of Arianna Alonso Bizzi, a MSci Physics student at Imperial College London.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -69,14 +69,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: lars-quaedvlieg # your GitHub user name
+github_username: alobiz-a # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: lars-quaedvlieg # your LinkedIn user name
-scholar_userid: f_-rgVcAAAAJ # your Google Scholar ID
+scholar_userid:  # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-0109-5705 # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -97,7 +97,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  I am more likely to respond to e-mails and messages on LinkedIn.
+  I am more likely to respond to e-mails.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
