@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my kingdom! I'm currently in my final year of my MSci in Physics at [Imperial College London](https://www.imperial.ac.uk/research-and-innovation/), with research interests in computational neuroscience, device physics, robotics and neuroengineering.
+HEYYYY Welcome to my kingdom! I'm currently in my final year of my MSci in Physics at [Imperial College London](https://www.imperial.ac.uk/research-and-innovation/), with research interests in computational neuroscience, device physics, robotics and neuroengineering.
 
 From 2022 to 2023, I spend a year abroad at Switzerland's [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/education/master/programs/data-science/), working at the [Neuroengineering Laboratory](https://www.epfl.ch/labs/ramdya-lab/) on two projects. The first involved developing **computer vision tools** via **transfer learning** to track key-points of the *Drosophila melanogaster* and perform **inverse kinematics** to replay its behaviour in a simulated, **digital twin**. In the second, I used real, **neural connections** data as the basis for a **temporal graph neural network** that was trained to generate oscillatory signals, to model a modulated, central pattern generator for **locomotion**.
 
